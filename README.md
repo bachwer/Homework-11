@@ -20,3 +20,5 @@ Homework-11
 [Xuất sắc]9. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088381456/
 
 [Xuất sắc]10. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088389445
+
+[Bài tập tổng hợp] : https://scratch.mit.edu/projects/1088592076/
