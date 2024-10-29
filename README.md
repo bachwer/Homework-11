@@ -16,6 +16,6 @@ Homework-11
 
 [Giỏi]8. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088380783/
 
-[Xuất sắc]9. Xử lý chuỗi ký tự trong scratch : 
+[Xuất sắc]9. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088381456/
 
 [Xuất sắc]10. Xử lý chuỗi ký tự trong scratch :
