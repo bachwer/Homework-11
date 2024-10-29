@@ -4,7 +4,7 @@ Homework-11
 
 [Cơ bản]2. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088124078/
 
-[Cơ bản]3. Xử lý chuỗi ký tự trong scratch :
+[Cơ bản]3. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088139879/
 
 [Cơ bản]4. Xử lý chuỗi ký tự trong scratch :
 
