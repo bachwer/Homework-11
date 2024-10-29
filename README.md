@@ -8,7 +8,7 @@ Homework-11
 
 [Cơ bản]4. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088315024/
 
-[Khá]5. Xử lý chuỗi ký tự trong scratch :
+[Khá]5. Xử lý chuỗi ký tự trong scratch : https://scratch.mit.edu/projects/1088316488/
 
 [Khá]6. Xử lý chuỗi ký tự trong scratch :
 
